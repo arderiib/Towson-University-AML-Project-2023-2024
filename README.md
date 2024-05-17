@@ -1,5 +1,5 @@
 Towson University AML 2023-2024
-pie
+
 Provided here are brief descriptions of all of the files that are included in this repository. This will be important for future uses to the Towson University Applied Mathematics Labratory.
 
 Notation will be: Description: fileName,
@@ -35,4 +35,4 @@ Description: Crime-Mobility-CensusBlockGroup.py,
     Program creates the pictures of the Quadrats that are used in the AML Papper for the 2023-2024 academic year.
     This is also used to perform analysis for the quadrats and to garner that crime intensity is not constant.
     Data: OpenBaltimore.xlsx
-    P
+
